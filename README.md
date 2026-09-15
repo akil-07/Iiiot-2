@@ -1,8 +1,8 @@
 # EXECUTION-OF-TIMER-OPERATIONS-USING-LADDER-LOGIC-PROGRAMMING
 
-**NAME** : DHAMINI S  
-**REGISTER NUMBER** : 212224040064  
-**DEPARTMENT** : CSE  
+**NAME** : Akil S 
+**REGISTER NUMBER** : 212225220007  
+**DEPARTMENT** : IT  
 **YEAR** : II  
 
 ## Aim:
@@ -55,7 +55,13 @@ Download the ladder logic program to the PLC if available and run it. Test the t
 * **Retentive Timer**: The output should turn on after the accumulated time reaches the preset value, and it should retain the accumulated time even if the input is turned off.
 
 ## Simulation Screenshots
-image image image image image image
+<img width="1128" height="431" alt="image" src="https://github.com/user-attachments/assets/578da48b-daaa-4697-b75f-dd52106c2855" />
+<img width="999" height="907" alt="image" src="https://github.com/user-attachments/assets/1b30908a-986c-4f5c-b493-0421212b96a7" />
+<img width="1003" height="917" alt="image" src="https://github.com/user-attachments/assets/23ace91e-a4f2-4826-b722-18b2b05d8ddb" />
+<img width="872" height="810" alt="image" src="https://github.com/user-attachments/assets/741eccb7-50c1-4435-96d1-8b3bfbbee517" />
+<img width="1001" height="582" alt="image" src="https://github.com/user-attachments/assets/b9db1ae8-0cca-4d43-8ba3-30152a63cc5b" />
+<img width="1005" height="531" alt="image" src="https://github.com/user-attachments/assets/f64bcf00-1ef4-4601-98a3-9d2e93f73681" />
+
 
 ## Results:
 The ladder logic programs for ON-delay, OFF-delay, and Retentive timers were successfully implemented and tested. The observed outputs matched the expected behavior of each type of timer, demonstrating the correct functioning of timer operations in PLC ladder logic. The experiment confirms the practical application of timers in controlling process sequences and managing time-dependent operations in industrial automation.
